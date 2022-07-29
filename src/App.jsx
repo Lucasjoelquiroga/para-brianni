@@ -84,7 +84,7 @@ function App() {
   ))
 }
 <br /><br /><br />
-<div>
+<div className='brianni'>
 
 <strong><span>Juego de memoria</span> <span>Para Brianni💝</span></strong>
 </div>
